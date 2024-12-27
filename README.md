@@ -40,4 +40,4 @@ It centralizes operations such as product tracking, client management, and resou
 - [EcoCanner Demo](https://drive.google.com/file/d/19KB3gZTQs8vhLpyWvqFBaUXHorK2SCL0/view?usp=sharing)  
 
 ## 🔓 Accessing the Code  
-To request access to the source code of EcoCanner, please contact me via LinkedIn. I’d be happy to discuss the project and share the code upon request.  
+To request access to the source code of EcoCanner, please contact me via [LinkedIn](https://www.linkedin.com/in/edamhakim/). I’d be happy to discuss the project and share the code upon request.  
