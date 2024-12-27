@@ -41,6 +41,3 @@ It centralizes operations such as product tracking, client management, and resou
 
 ## 🔓 Accessing the Code  
 To request access to the source code of EcoCanner, please contact me via LinkedIn. I’d be happy to discuss the project and share the code upon request.  
-
-## 🤝 Acknowledgments  
-A huge thank you to my amazing team for their dedication and collaboration in making EcoCanner a success!
