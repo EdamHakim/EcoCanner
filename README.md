@@ -1,8 +1,9 @@
 # EcoCanner: Modernizing Food Canning 🌱  
 
-<img src="ecocanner_logo.png" width="220" height="54.8">
+<img src="ecocanner_logo.png" width="440" height="109.6">
 
-EcoCanner is a powerful and intuitive desktop application designed to revolutionize the food canning industry. It centralizes operations such as product tracking, client management, and resource monitoring, all while championing sustainability. 🚀  
+EcoCanner is a powerful and intuitive desktop application designed to revolutionize the food canning industry. 
+It centralizes operations such as product tracking, client management, and resource monitoring, all while championing sustainability. 🚀  
 
 ## 🌟 Features  
 - **Real-Time Tracking:** Monitor products and resources efficiently.  
